@@ -1,4 +1,4 @@
-
+## Ola! Eu sou Alessandro  ⚛️ 💻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-lima-sal/)![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ![Alesal2021 GitHub stats](https://github-readme-stats.vercel.app/api?username=Alesal2021&show_icons=true&theme=radical)
